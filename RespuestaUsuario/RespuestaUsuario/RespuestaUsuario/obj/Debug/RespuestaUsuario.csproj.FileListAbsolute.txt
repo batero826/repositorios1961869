@@ -1,0 +1,9 @@
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\RespuestaUsuario\RespuestaUsuario\RespuestaUsuario\bin\Debug\RespuestaUsuario.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\RespuestaUsuario\RespuestaUsuario\RespuestaUsuario\bin\Debug\RespuestaUsuario.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\RespuestaUsuario\RespuestaUsuario\RespuestaUsuario\bin\Debug\RespuestaUsuario.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\RespuestaUsuario\RespuestaUsuario\RespuestaUsuario\obj\Debug\RespuestaUsuario.csprojResolveAssemblyReference.cache
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\RespuestaUsuario\RespuestaUsuario\RespuestaUsuario\obj\Debug\RespuestaUsuario.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\RespuestaUsuario\RespuestaUsuario\RespuestaUsuario\obj\Debug\RespuestaUsuario.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\RespuestaUsuario\RespuestaUsuario\RespuestaUsuario\bin\Debug\RespuestaUsuario.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\RespuestaUsuario\RespuestaUsuario\RespuestaUsuario\obj\Debug\RespuestaUsuario.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\RespuestaUsuario\RespuestaUsuario\RespuestaUsuario\obj\Debug\RespuestaUsuario.pdb

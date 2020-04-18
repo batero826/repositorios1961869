@@ -1,0 +1,2 @@
+C:\Users\FORMACION\Documents\adsi 1961869\david\repetitiva_while\repetitiva_while\bin\Debug\repetitiva_while.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\repetitiva_while\repetitiva_while\obj\Debug\repetitiva_while.csprojResolveAssemblyReference.cache

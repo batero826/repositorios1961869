@@ -1,0 +1,12 @@
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\bin\Debug\Condicional_Switch.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\bin\Debug\Condicional_Switch.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\bin\Debug\Condicional_Switch.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.csprojResolveAssemblyReference.cache
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.pdb
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\bin\Debug\Condicional_Switch.exe.config
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.exe
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\bin\Debug\Condicional_Switch.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\CondicionalSwitch\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.pdb

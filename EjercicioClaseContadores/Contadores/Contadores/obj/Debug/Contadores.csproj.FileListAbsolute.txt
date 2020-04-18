@@ -1,0 +1,12 @@
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\EjercicioClaseContadores\Contadores\Contadores\bin\Debug\Contadores.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\EjercicioClaseContadores\Contadores\Contadores\bin\Debug\Contadores.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\EjercicioClaseContadores\Contadores\Contadores\bin\Debug\Contadores.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\EjercicioClaseContadores\Contadores\Contadores\obj\Debug\Contadores.csprojResolveAssemblyReference.cache
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\EjercicioClaseContadores\Contadores\Contadores\obj\Debug\Contadores.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\EjercicioClaseContadores\Contadores\Contadores\obj\Debug\Contadores.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\EjercicioClaseContadores\Contadores\Contadores\bin\Debug\Contadores.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\EjercicioClaseContadores\Contadores\Contadores\obj\Debug\Contadores.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\EjercicioClaseContadores\Contadores\Contadores\obj\Debug\Contadores.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\EjercicioClaseContadores\Contadores\Contadores\bin\Debug\Contadores.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\EjercicioClaseContadores\Contadores\Contadores\bin\Debug\Contadores.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\EjercicioClaseContadores\Contadores\Contadores\obj\Debug\Contadores.csprojResolveAssemblyReference.cache

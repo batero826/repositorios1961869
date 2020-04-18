@@ -1,0 +1,6 @@
+C:\Users\FORMACION\Documents\adsi 1961869\david\arreglos\operadores_arimeticos\operadores_arimeticos\bin\Debug\operadores_arimeticos.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\arreglos\operadores_arimeticos\operadores_arimeticos\obj\Debug\operadores_arimeticos.csprojResolveAssemblyReference.cache
+C:\Users\FORMACION\Documents\adsi 1961869\david\arreglos\operadores_arimeticos\operadores_arimeticos\bin\Debug\operadores_arimeticos.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\arreglos\operadores_arimeticos\operadores_arimeticos\bin\Debug\operadores_arimeticos.pdb
+C:\Users\FORMACION\Documents\adsi 1961869\david\arreglos\operadores_arimeticos\operadores_arimeticos\obj\Debug\operadores_arimeticos.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\arreglos\operadores_arimeticos\operadores_arimeticos\obj\Debug\operadores_arimeticos.pdb

@@ -1,0 +1,9 @@
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Acomuladores\Acomuladores\Acomuladores\bin\Debug\Acomuladores.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Acomuladores\Acomuladores\Acomuladores\bin\Debug\Acomuladores.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Acomuladores\Acomuladores\Acomuladores\bin\Debug\Acomuladores.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Acomuladores\Acomuladores\Acomuladores\obj\Debug\Acomuladores.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Acomuladores\Acomuladores\Acomuladores\obj\Debug\Acomuladores.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Acomuladores\Acomuladores\Acomuladores\obj\Debug\Acomuladores.csprojResolveAssemblyReference.cache
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Acomuladores\Acomuladores\Acomuladores\bin\Debug\Acomuladores.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Acomuladores\Acomuladores\Acomuladores\obj\Debug\Acomuladores.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Acomuladores\Acomuladores\Acomuladores\obj\Debug\Acomuladores.pdb

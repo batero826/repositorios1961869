@@ -1,0 +1,9 @@
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\FunConRetunConParam\FunConRetunConParam\bin\Debug\FunConRetunConParam.exe.config
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\FunConRetunConParam\FunConRetunConParam\bin\Debug\FunConRetunConParam.exe
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\FunConRetunConParam\FunConRetunConParam\bin\Debug\FunConRetunConParam.pdb
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\FunConRetunConParam\FunConRetunConParam\obj\Debug\FunConRetunConParam.csprojResolveAssemblyReference.cache
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\FunConRetunConParam\FunConRetunConParam\obj\Debug\FunConRetunConParam.exe
+H:\Rosario SENA\Evidencias SENA\Instructor Jesus David Calderon\nuevos\Actividades\FuncionConRetornoConParametros\FunConRetunConParam\FunConRetunConParam\obj\Debug\FunConRetunConParam.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\FuncionConRetornoConParametros\FunConRetunConParam\FunConRetunConParam\bin\Debug\FunConRetunConParam.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\FuncionConRetornoConParametros\FunConRetunConParam\FunConRetunConParam\obj\Debug\FunConRetunConParam.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\FuncionConRetornoConParametros\FunConRetunConParam\FunConRetunConParam\obj\Debug\FunConRetunConParam.pdb

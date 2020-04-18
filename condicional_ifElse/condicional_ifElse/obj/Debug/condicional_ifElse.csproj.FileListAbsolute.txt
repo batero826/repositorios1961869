@@ -1,0 +1,6 @@
+C:\Users\FORMACION\Documents\adsi 1961869\david\condicional_ifElse\condicional_ifElse\bin\Debug\condicional_ifElse.exe.config
+C:\Users\FORMACION\Documents\adsi 1961869\david\condicional_ifElse\condicional_ifElse\obj\Debug\condicional_ifElse.csprojResolveAssemblyReference.cache
+C:\Users\FORMACION\Documents\adsi 1961869\david\condicional_ifElse\condicional_ifElse\bin\Debug\condicional_ifElse.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\condicional_ifElse\condicional_ifElse\bin\Debug\condicional_ifElse.pdb
+C:\Users\FORMACION\Documents\adsi 1961869\david\condicional_ifElse\condicional_ifElse\obj\Debug\condicional_ifElse.exe
+C:\Users\FORMACION\Documents\adsi 1961869\david\condicional_ifElse\condicional_ifElse\obj\Debug\condicional_ifElse.pdb

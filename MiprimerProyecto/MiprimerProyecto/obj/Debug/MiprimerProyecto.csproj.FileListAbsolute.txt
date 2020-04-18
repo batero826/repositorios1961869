@@ -1,0 +1,15 @@
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\JesusDavidCalderón\Actividades\MiprimerProyecto\MiprimerProyecto\bin\Debug\MiprimerProyecto.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\JesusDavidCalderón\Actividades\MiprimerProyecto\MiprimerProyecto\bin\Debug\MiprimerProyecto.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\JesusDavidCalderón\Actividades\MiprimerProyecto\MiprimerProyecto\bin\Debug\MiprimerProyecto.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\JesusDavidCalderón\Actividades\MiprimerProyecto\MiprimerProyecto\obj\Debug\MiprimerProyecto.csprojResolveAssemblyReference.cache
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\JesusDavidCalderón\Actividades\MiprimerProyecto\MiprimerProyecto\obj\Debug\MiprimerProyecto.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\JesusDavidCalderón\Actividades\MiprimerProyecto\MiprimerProyecto\obj\Debug\MiprimerProyecto.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\MiprimerProyecto\MiprimerProyecto\bin\Debug\MiprimerProyecto.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\MiprimerProyecto\MiprimerProyecto\obj\Debug\MiprimerProyecto.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\MiprimerProyecto\MiprimerProyecto\obj\Debug\MiprimerProyecto.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\MiprimerProyecto\MiprimerProyecto\bin\Debug\MiprimerProyecto.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\MiprimerProyecto\MiprimerProyecto\obj\Debug\MiprimerProyecto.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\MiprimerProyecto\MiprimerProyecto\obj\Debug\MiprimerProyecto.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\MiprimerProyecto\MiprimerProyecto\bin\Debug\MiprimerProyecto.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\MiprimerProyecto\MiprimerProyecto\bin\Debug\MiprimerProyecto.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\MiprimerProyecto\MiprimerProyecto\obj\Debug\MiprimerProyecto.csprojResolveAssemblyReference.cache

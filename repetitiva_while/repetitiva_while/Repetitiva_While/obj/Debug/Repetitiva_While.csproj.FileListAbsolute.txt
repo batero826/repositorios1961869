@@ -1,0 +1,9 @@
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Repetitiva_While\Repetitiva_While\Repetitiva_While\bin\Debug\Repetitiva_While.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Repetitiva_While\Repetitiva_While\Repetitiva_While\bin\Debug\Repetitiva_While.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Repetitiva_While\Repetitiva_While\Repetitiva_While\bin\Debug\Repetitiva_While.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Repetitiva_While\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.csprojResolveAssemblyReference.cache
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Repetitiva_While\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Repetitiva_While\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Repetitiva_While\Repetitiva_While\Repetitiva_While\bin\Debug\Repetitiva_While.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Repetitiva_While\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Repetitiva_While\Repetitiva_While\Repetitiva_While\obj\Debug\Repetitiva_While.pdb

@@ -1,0 +1,9 @@
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_if\Condicional_if\Condicional_if\bin\Debug\Condicional_if.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_if\Condicional_if\Condicional_if\obj\Debug\Condicional_if.csprojResolveAssemblyReference.cache
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_if\Condicional_if\Condicional_if\bin\Debug\Condicional_if.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_if\Condicional_if\Condicional_if\bin\Debug\Condicional_if.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_if\Condicional_if\Condicional_if\obj\Debug\Condicional_if.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_if\Condicional_if\Condicional_if\obj\Debug\Condicional_if.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Condicional_if\Condicional_if\Condicional_if\bin\Debug\Condicional_if.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Condicional_if\Condicional_if\Condicional_if\obj\Debug\Condicional_if.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Condicional_if\Condicional_if\Condicional_if\obj\Debug\Condicional_if.pdb

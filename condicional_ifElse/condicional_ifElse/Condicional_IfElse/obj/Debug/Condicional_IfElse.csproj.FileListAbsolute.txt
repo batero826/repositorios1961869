@@ -1,0 +1,8 @@
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_IfElse\Condicional_IfElse\Condicional_IfElse\bin\Debug\Condicional_IfElse.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_IfElse\Condicional_IfElse\Condicional_IfElse\bin\Debug\Condicional_IfElse.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_IfElse\Condicional_IfElse\Condicional_IfElse\bin\Debug\Condicional_IfElse.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_IfElse\Condicional_IfElse\Condicional_IfElse\obj\Debug\Condicional_IfElse.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_IfElse\Condicional_IfElse\Condicional_IfElse\obj\Debug\Condicional_IfElse.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Condicional_IfElse\Condicional_IfElse\Condicional_IfElse\bin\Debug\Condicional_IfElse.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Condicional_IfElse\Condicional_IfElse\Condicional_IfElse\obj\Debug\Condicional_IfElse.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Condicional_IfElse\Condicional_IfElse\Condicional_IfElse\obj\Debug\Condicional_IfElse.pdb

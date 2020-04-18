@@ -1,0 +1,12 @@
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_for\EjercicioFor\EjercicioFor\bin\Debug\EjercicioFor.exe.config
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_for\EjercicioFor\EjercicioFor\bin\Debug\EjercicioFor.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_for\EjercicioFor\EjercicioFor\bin\Debug\EjercicioFor.pdb
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_for\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.csprojResolveAssemblyReference.cache
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_for\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.exe
+C:\Users\SOPORTE\Desktop\Rosario ADSI-2020\InstructorJesusDavidCalderón\Actividades\Condicional_for\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.pdb
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\Condicional_for\EjercicioFor\EjercicioFor\bin\Debug\EjercicioFor.exe.config
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\Condicional_for\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.exe
+C:\Users\SOPORTE\Desktop\Rosario_ADSI-2020\InstructorJesusDavidCalderon\Actividades\Condicional_for\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.pdb
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Condicional_for\EjercicioFor\EjercicioFor\bin\Debug\EjercicioFor.exe.config
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Condicional_for\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.exe
+C:\Users\camilobatero\Desktop\MisEjerciciosCsharp-master\MisEjerciciosCsharp-master\Actividades\Condicional_for\EjercicioFor\EjercicioFor\obj\Debug\EjercicioFor.pdb
